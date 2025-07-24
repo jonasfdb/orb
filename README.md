@@ -2,13 +2,9 @@
 
 Orb is a fully-featured, actively maintained multi-purpose Discord bot with an emphasis on utility, community, and fun. For more information on the bot itself and for the invite link, visit [the support server on Discord](https://discord.gg/kUPz8dS7PM). For questions, feedback and suggestions, feel free to open an issue or submit a discussion!
 
----
-
 ## 📦 About This Repository
 
 This is the official codebase of the Orb bot. You are welcome to explore the code, contribute improvements, and suggest new features. Everything is welcome! But heads up, this is meant for people interested in contributing or experimenting. While Orb can be hosted on a local machine under the terms of the license, but this is not officially supported at this point in time, and this repository will not provide help for issues on self-hosted instances for now. This repository also does not provide end-user support. For questions or support related to the hosted version of Orb, visit the homepage or the official Discord server.
-
----
 
 ## 🤝 Contribute to Orb
 
@@ -19,8 +15,6 @@ If you have an idea, a suggestion or a feature request, you can make your voice 
 ### Contributing code
 
 If you want to submit code directly, please fork the repo, create a new branch (`feature/your-change`), and submit a pull request with a clear commit message. I'd love to be able to ask you to adhere to the coding style, but in all fairness, my codebase is still mostly a mess and I am actively working on improving it.
-
----
 
 ## ⚙️ Requirements & Setup
 
@@ -44,15 +38,11 @@ npm run deployToBot     # deploy /src/commands to bot instance
 npm run deployToServer  # deploy /src/commands to specific guild specified in .env
 ```
 
----
-
 ## ⚖️ License
 
 This project is licensed under the **GNU Affero General Public License v3.0 (AGPL-3.0)**. See [`LICENSE`](./LICENSE) for the full text of the license and it's conditions. For a general overview, visit [this summary](https://choosealicense.com/licenses/agpl-3.0/).
 
 Third-party packages used in this project and their respective licenses can be found in [`LICENSE`](./NOTICE.md).
-
----
 
 ## 💭 Contact
 
