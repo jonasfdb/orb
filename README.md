@@ -33,16 +33,16 @@ Orb provides the following scripts through `package.json`:
 
 ```bash
 npm start               # run compiled build using tsx
-npm run build           # compile /src to JavaScript
-npm run deployToBot     # deploy /src/commands to bot instance
-npm run deployToServer  # deploy /src/commands to specific guild specified in .env
+npm run build           # compile to JavaScript code
+npm run deployToBot     # deploy /src/commands to the Discord application specified in .env
+npm run deployToServer  # deploy /src/commands to the guild specified in .env
 ```
 
 ## ⚖️ License
 
-This project is licensed under the **GNU Affero General Public License v3.0 (AGPL-3.0)**. See [`LICENSE`](./LICENSE) for the full text of the license and it's conditions. For a general overview, visit [this summary](https://choosealicense.com/licenses/agpl-3.0/).
+This project is licensed under the **GNU Affero General Public License v3.0 (AGPL-3.0)**.
 
-Third-party packages used in this project and their respective licenses can be found in [`LICENSE`](./NOTICE.md).
+See [`LICENSE`](./LICENSE) for the full text of the license. For a summary of the AGPL-3.0, visit [choosealicense.com](https://choosealicense.com/licenses/agpl-3.0/). Third-party packages used in this project and their respective licenses can be found in [`NOTICE.md`](./NOTICE.md).
 
 ## 💭 Contact
 

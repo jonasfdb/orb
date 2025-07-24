@@ -20,4 +20,4 @@ Orb includes the following dependencies:
 - MIT - sequelize
 - MIT - tsx
 
-These libraries are included under their respective open-source licenses.
+These libraries are included under their respective licenses and in compliance with the AGPL-3.0 license.
