@@ -13,6 +13,6 @@
     "allowJs": true,
     // "noEmit": true
   },
-  "include": ["src", "helpers", "config.mjs", "orb.ts", "notes/setup.mjs"],
+  "include": ["src", "helpers", "config.ts", "orb.ts"],
   "exclude": ["node_modules", "dist", "qr_storage"]
 }
