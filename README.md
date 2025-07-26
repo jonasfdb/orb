@@ -1,10 +1,6 @@
-# The foundations of Orb
-
-Orb is an actively maintained and open source Discord bot with a lot of features. For more information on the bot itself and to invite it, visit [the support server on Discord](https://discord.gg/kUPz8dS7PM).
-
 ## 📦 About This Repository
 
-This is the official codebase of the Orb bot. You are welcome to explore the code, contribute improvements, and suggest new features. Everything is welcome! But heads up, this is meant for people interested in contributing or experimenting. While Orb can be hosted on a local machine under the terms of the license, this is not officially supported at this point in time and this here will not provide help for issues on self-hosted instances. This repository also does not provide end-user support. For questions or support related to the hosted version of Orb, visit the homepage or the official Discord server.
+Orb is an actively maintained and open source Discord bot with a lot of features. This is it's codebase. You are welcome to explore the code, contribute improvements, and suggest new features. Everything is welcome! But heads up, this is meant for people interested in contributing or experimenting. While Orb can be hosted on a local machine under the terms of the license, this is not officially supported at this point in time and this here will not provide help for issues on self-hosted instances. This repository also does not provide end-user support. For questions or support related to the hosted version of Orb, visit the homepage or [the support server on Discord](https://discord.gg/kUPz8dS7PM).
 
 ## 🤝 Contribute to Orb
 
@@ -47,4 +43,4 @@ See [`LICENSE`](./LICENSE) for the full text of the license. For a summary of th
 ## 💭 Contact
 
 Orb is developed and maintained with love and care by me, jonasfdb <3
-To contact me, you can either directly contact me through Discord under the username "jonasfdb", or you shoot me an email at jonasdebuhr@gmail.com.
+To contact me, you can either directly contact me through Discord under the username "jonasfdb".
